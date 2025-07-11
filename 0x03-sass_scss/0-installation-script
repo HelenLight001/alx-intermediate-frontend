@@ -1,0 +1,8 @@
+Steps taken to install SASS.
+
+I opened the alx-intermediate-frontend repository,
+inside it, I created a new directory called 0x03-sass_scss,
+inside the new directory, I created a file called 0-installation-script.
+I then opened my Terminal and run 'npm install sass -v 3.7.4' to install SASS.
+
+These were the steps I took to install SASS in windows PC.

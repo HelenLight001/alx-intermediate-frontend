@@ -1,0 +1,25 @@
+guillaume@ubuntu:~/$ sass 1-color_variable.scss | tail -n +2
+
+body {
+  color: #3D3D3D; 
+}
+
+p {
+  color: #3D3D3D;
+}
+
+guillaume@ubuntu:~/$
+
+
+
+// 1-color_variable.scss
+
+$my-text-color: #3D3D3D;
+
+body {
+  color: $my-text-color;
+}
+
+p {
+  color: $my-text-color;
+}
